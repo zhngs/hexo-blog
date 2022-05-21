@@ -1,0 +1,15 @@
+- class_name: 社交平台
+  class_desc: 我的社交账号
+  link_list:
+    - name: github
+      link: https://github.com/zhngs
+      avatar: /images/github.png
+      descr: 欢迎访问我的仓库
+    - name: bilibili
+      link: https://space.bilibili.com/514656864
+      avatar: /images/bilibili.png
+      descr: 我的视频教程
+    - name: 知乎
+      link: https://www.zhihu.com/people/zhang-shuo-44-43-43
+      avatar: /images/zhihu.png
+      descr: 我的知乎文章
