@@ -73,11 +73,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: /images/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: /images/headimg.jpg
+  img: /images/headimg.jpeg
   effect: false
 
 # Disable all banner image
